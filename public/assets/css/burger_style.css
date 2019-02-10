@@ -43,6 +43,7 @@ body {
 .this-width {
     width: 40%;
 }
+
 .h2class {
     text-align: center;
 }
@@ -55,7 +56,7 @@ body {
     text-align: center;
     width: 30%;
     margin: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 40px;
     padding-top: 20px;
     border: 2px solid green;
     
